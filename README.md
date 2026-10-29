@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nandhakumar N - Java Developer Portfolio
 
 React + Vite + plain CSS. Frontend only, no backend.
@@ -39,3 +40,6 @@ npm run preview    # test the production build locally
 **Vercel:** push the folder to GitHub > vercel.com > Add New Project > import the repo > Deploy (Vite is auto-detected).
 **Netlify:** push to GitHub > app.netlify.com > Add new site > Import from Git > build command `npm run build`, publish directory `dist`.
 (Or drag the `dist` folder onto https://app.netlify.com/drop after building.)
+=======
+# Nandha_JavaDeveloper_Portfolio
+>>>>>>> 2a1adf1818eac9cf1f3c24897482cf72ca3a7534
